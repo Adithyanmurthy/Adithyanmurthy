@@ -1,7 +1,7 @@
 <a href="https://adithyanmurthy.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Adithya N Murthy — AI / machine learning engineer, Bangalore. I learn by building: working output first, theory after." src="assets/banner-light.svg" width="100%">
+    <img alt="Adithya N Murthy — AI / machine learning engineer, Bangalore. I learn by building." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
