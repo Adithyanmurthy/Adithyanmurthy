@@ -15,7 +15,7 @@ Most of my work starts as a question I can only answer by building the thing and
 
 ### Selected work
 
-| | |
+| Project | What it is |
 |:--|:--|
 | **[Live3D](https://adithyanmurthy.com/work/live3d)** | Phone, drone or CCTV video turned into a 3D model of the space, live in the browser, then refined into real meters you can measure. Runs on one Apple Silicon workstation, no cloud. |
 | **[LawVerse](https://adithyanmurthy.com/work/lawverse)** | Legal NLP over 231,908 court judgments. Our first pipeline said 22 of 25 legal concepts had changed meaning; after we found and fixed four silent defects in it, one had. |
